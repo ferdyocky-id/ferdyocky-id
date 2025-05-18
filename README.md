@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Ocky 
+## 👋 Hi, I'm Ocky 
 
 🔭 Business Intelligence Analyst-Engineer <br/>
 💬 Solving business problems that focus on e-commerce & retail </br>
 🌱 Always learn something new, currently taking an interest in building AI agent </br>
 ⚡ Fun fact: I switched from my previous career as motion & graphic designer </br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
